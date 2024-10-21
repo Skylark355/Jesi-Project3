@@ -8,7 +8,7 @@
 
 body {
   background-color: #ebe6e0;
-  font-family: "Roboto", sans-serif;
+  /* font-family: "Roboto", sans-serif; */
 }
 
 #navbar {
@@ -260,8 +260,6 @@ ul li a {
 }
 /* footer section ends here  */
 
-
-
 /* Media querries  */
 @media (min-width: 370px) and (max-width: 480px) {
   #navbar .container ul {
@@ -287,25 +285,25 @@ ul li a {
     font-size: 16px;
   }
 
-  .section-title h1{
+  .section-title h1 {
     font-size: 20px;
   }
 
-  .order-details{
+  .order-details {
     width: 300px;
   }
 
-  .delivery-details{
+  .delivery-details {
     width: 300px;
     font-size: 14px;
   }
 
-  .form input{
+  .form input {
     width: 250px;
     font-size: 16px;
   }
 
-  .form label{
+  .form label {
     font-size: 16px;
   }
 
@@ -313,7 +311,6 @@ ul li a {
     /* padding-top: 30px; */
     margin-top: 50px;
     background-color: #d6d3d3;
-    
   }
 
   #footer .social-icon {
